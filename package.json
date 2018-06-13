@@ -1,0 +1,30 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Liri Homework Assignment",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunshineDaydeam/Liri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunshineDaydeam/Liri/issues"
+  },
+  "homepage": "https://github.com/SunshineDaydeam/Liri#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "file-system": "^2.2.2",
+    "inquirer": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "omdb-api-pt": "^2.0.1",
+    "request": "^2.87.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
